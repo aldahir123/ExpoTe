@@ -1,0 +1,9 @@
+4000;Luciana;Onton Cruz;Femenino;DNI;425896578;38;luci@gmail.com;5659355;Las Americas cda. 54
+4001;Mario Luis;Casas Lopez;Masculino;DNI;42758521;50;marito@hotmail.com;985475115;Las Lomas #1578
+4002;Roberto;Luna Sol;Masculino;RUC;15427854758;45;robertito@gmail.com;5974885;Frente a la UCV JR. 144
+4003;Lucho;Criollo Garbaldo;Masculino;DNI;42158575;25;lucho@outlook.es;5289875;Fatima del Carmen #415
+4004;alexander;araujo medina;Masculino;DNI;76589943;24;alexander_el_loco50@hotmail.com;940218125;la ensenada
+4005;yoel;medina araujo;Masculino;DNI;76589942;24;alexaraujomedi@gmail.com;989812164;la ensenada
+4006;JUAN ANTHONY;DIAZ CABANILLAS;Masculino;DNI;74847349;21;a.diazcabanillas97@gmail.com;98400432;urb. tungasuca 3ra etapa mz f lte 10 - trapiche
+4007;juan anthony;diaz cabanillas;Masculino;DNI;75689945;28;tonydc@gmail.com;987654321;trapiche
+4008;eric;valladares;Masculino;DNI;71034056;23 ;ploxx95@gmail.com;989411705;mzn lote 1 - Callao

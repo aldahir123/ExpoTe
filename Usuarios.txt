@@ -1,0 +1,6 @@
+9;Alexander Yoel;Araujo Medina;Masculino;76589943;05/11/94;alexaraujomedi@gmail.com;940218125;MZ C lote 16 La Ensenada;ADMINISTRADOR;alexander;CJIdwDEF/3k=
+10;Juan Anthony;Diaz Cabanillas;Masculino;74847349;12/02/97;a.diaazcabanillas97@gmail.com;982400432;MZ F lote 10 Trapiche;VENDEDOR;tonydc;oeidSG3BhpU=
+11;Javier Mariano;Romero Hernandez;Masculino;7475399;09/09/98;javier_2257@hotmail.com;967191935;MZ A lote 14 Comas;VENDEDOR;javier;CJIdwDEF/3k=
+12;Sergio;Ventura Matto;Masculino;70141375;24/08/96;zergioventura@gmail.com;949567275;MZ Q lote 2 Urb San Diego;ADMINISTRADOR;sergio;CJIdwDEF/3k=
+13;Jorge;Ardiles Reategui;Masculino;74814925;12/01/97;jaar_1201@hotmail.com;946845636;virgo 1025 Urb Mercurio;ADMINISTRADOR;jorge;CJIdwDEF/3k=
+14;Paolo Anthony;Borja Roldan;Masculino;71034056;12/04/95;ploxx95@gmail.com;989411705;Gregorio paredes 409;VENDEDOR;alexander;Cy+8+ljkuGg=
